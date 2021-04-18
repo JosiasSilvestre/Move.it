@@ -1,0 +1,25 @@
+o React é uma biblioteca de construção de interfaces
+o Next.js pode ser considerado um framework em cima do React, ele trás um conjunto 
+de funcionalidades prontas que se repetem em muitas aplicações. Além de nos permitir
+trabalhar com SPA, SSR e SSG
+
+SPA (Single Page Application)
+uma aplicação feita em uma única página que aproveita seus elementos repetidos
+nas demais rotas, por exemplo, um header, uma side bar etc. atualizando somente o
+conteúdo da página e mantendo esses elementos.
+
+yarn create next-app nomeDoProjeto
+abre a pasta do projeto no vscode
+no terminal do vscode:
+yarn add typescript @types/react @types/react-dom @types/node -D
+yarn dev 
+
+componentes são formas de isolar e reaproveitar pedaços de código que se repetem na aplicação
+propriedades sãp todos os atributos que um componente espera ter
+childrens são propriedades passadas dentro da tag de um componente
+o estado definido dentro de um componente é independente para cada componente do mesmo tipo
+
+importar os arquivos de estilização sempre a partir do javascript e não do index.html
+1rem = 16px adaptado a tela da aplicação
+
+deploy no vercel
