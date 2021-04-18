@@ -36,7 +36,8 @@ Move.it is an app that combines Pomodoro's technique with physical exercises for
 
 ## 🔖 Layout
 
-You can view the layout of the project through [this link] (https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). You must have an account at [Figma] (http://figma.com/) to access it.
+You can view the layout of the project through [this link] (https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). 
+You must have an account at [Figma] (http://figma.com/) to access it.
 
 ## 🚀 How to run
 
